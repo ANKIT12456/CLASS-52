@@ -1,0 +1,26 @@
+.header{border:solid;
+        background-color :#fc7f0a;
+        display:flex;
+        justify-content:center;}
+.footer{border:double;
+        background-color :#87ceeb;
+        display:flex;
+        justify-content:space-evenly;}
+.about{border:double;
+       background-color:#6a5acd;
+       display:flex;
+       justify-content:flex-end;}
+
+body{
+        background-color:#808080;
+        background-image: url("bg7.jpg");
+        border-color: black;
+        font-family: cursive;
+        font-weight: bold;
+        color:yellow;
+}
+
+a:link{
+        color:red;
+}
+

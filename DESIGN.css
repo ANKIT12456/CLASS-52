@@ -1,0 +1,22 @@
+h2{
+    color:red;
+    border:dotted;
+    text-align:right;
+}
+.image{
+        border:solid;
+        display:flex;
+        justify-content:flex-end;
+        border-radius: 50px 50px 50px 50px;
+}
+
+.image img{
+  opacity:0;
+}
+
+.image:hover img{
+  opacity:1;
+}
+
+
+
